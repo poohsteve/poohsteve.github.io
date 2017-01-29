@@ -1,5 +1,5 @@
 ## 환영합니다. 테스트입니다.
-You can see my works at the [my_naverblog](http://kanghans94.blog.me/) to contact with me [my e-mail](gmail.com) -> amazingstevekang@gmail.com 
+You can see my works at the [my_naverblog](http://kanghans94.blog.me/) to contact with me [my e-mail](google.com) -> amazingstevekang@gmail.com 
 
 ### Markdown
 
