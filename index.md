@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Steve's Pages
 
 You can use the [editor on GitHub](https://github.com/poohsteve/poohsteve.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Photo 1
+## Music 2
+### Video 3
 
 - Bulleted
 - List
