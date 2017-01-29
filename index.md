@@ -1,34 +1,9 @@
 ## 환영합니다. 테스트입니다.
-You can see my works at the [my_naverblog](http://kanghans94.blog.me/) to contact with me [my e-mail](google.com) -> amazingstevekang@gmail.com 
+You can see my works at the [my_naverblog](http://kanghans94.blog.me/) to contact with me -> amazingstevekang@gmail.com
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Photo 
+Music 
+Video 
 
-```markdown
-Syntax highlighted code block
 
-# Photo 1
-## Music 2
-### Video 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/poohsteve/poohsteve.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
