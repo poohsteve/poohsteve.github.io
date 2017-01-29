@@ -1,5 +1,5 @@
 ## 환영합니다
-You can use the [editor on GitHub](https://github.com/poohsteve/poohsteve.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can see my works at the [my_naverblog](http://kanghans94.blog.me/) to contact with me [my e-mail](amazingstevekang@gmail.com)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
