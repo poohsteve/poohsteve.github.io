@@ -98,7 +98,7 @@
 		@media screen and (max-width: 1680px) {
 
 			html {
-				font-size: 10pt;
+				font-size: 12pt;
 			}
 
 		}
@@ -106,7 +106,7 @@
 		@media screen and (max-width: 736px) {
 
 			html {
-				font-size: 10pt;
+				font-size: 11pt;
 			}
 
 		}
@@ -1041,6 +1041,9 @@
 	}
 
 /* BG */
+      
+      background-size : cover;
+      background-repeat : no-repeat;
 
 	#bg {
 		-moz-transform: scale(1.0);
@@ -1076,6 +1079,8 @@
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.gif");
+			background-size : cover;
+            background-repeat : no-repeat;
 			background-size: auto, 256px 256px;
 			background-position: center, center;
 			background-repeat: no-repeat, repeat;
