@@ -609,8 +609,6 @@
 			-ms-pointer-events: none;
 			pointer-events: none;
 			background-image: url("../../images/overlay.gif");
-			background-size : cover;
-            background-repeat : no-repeat;
 			background-color: rgba(19, 21, 25, 0.5);
 			border-radius: 4px;
 			content: '';
