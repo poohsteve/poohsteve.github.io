@@ -132,7 +132,7 @@
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		border-bottom: dotted 1px rgba(255, 255, 255, 0.5);
+		border-bottom: dotted 1px rgba(55, 55, 55, 0.5);
 		text-decoration: none;
 		color: inherit;
 	}
@@ -240,7 +240,7 @@
 	}
 
 	code {
-		background: rgba(255, 255, 255, 0.075);
+		background: rgba(55, 55, 55, 0.075);
 		border-radius: 4px;
 		font-family: "Courier New", monospace;
 		font-size: 0.9rem;
